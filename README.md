@@ -1,3 +1,5 @@
+#  DEPRECATED: Replaced by https://github.com/Mellanox/rshim-user-space #
+
                   BlueField Rshim Host Driver
 
 The rshim driver provides a way to access the rshim resources on
